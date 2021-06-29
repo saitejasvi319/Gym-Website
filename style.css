@@ -64,13 +64,16 @@ body {
 }
 
 .btn:hover {
-    background-color: #B32423;
+    background-color: #630101;
 }
 
 main{
     text-align: center;
     display:block;
-    margin:auto;
+    margin:auto;   
+}
+
+.hero{
     margin-top: 300px;
 }
  h1{
@@ -79,6 +82,20 @@ main{
 
  h3{
      font-family:'Courier New', Courier, monospace;
+ }
+
+ .about{
+     margin-top: 150px;
+     margin-left: 150px;
+     margin-right: 150px;
+ }
+
+ .timings{
+     background-color: #B32423;
+     padding: 10px 30px;
+     border-radius: 10px;
+width: 40%;
+margin: auto;
  }
 
 footer {
